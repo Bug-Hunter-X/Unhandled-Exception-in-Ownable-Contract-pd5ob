@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with an unhandled exception. The `transferOwnership` function throws an exception when attempting to transfer ownership to the zero address.  A solution is provided demonstrating safe handling of this condition. The original contract is found in `bug.sol`, and the corrected version in `bugSolution.sol`.
